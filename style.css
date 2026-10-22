@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f8;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
+
+li {
+    margin: 10px 0;
+}
+
+.editButton {
+    background-color: blue;
+    color: white;
+}
+
+.removeButton {
+    background-color: red;
+    color: white;
+}
